@@ -2,3 +2,5 @@ Primeira Linha Teste
 
  Segunda Linha
  Terceira Linha com nova branch
+
+ Quarta linha adicionada localmente
